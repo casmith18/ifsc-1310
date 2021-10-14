@@ -16,20 +16,43 @@ html {
 body{
   font-family: 'Raleway', sans-serif;
 margin:0;
- background-color:black;   
+ background-color:#fffeea;   
 }
 
-body h1{
-    text-align:center;
-    color:#A6DAFF;
+header.primary{
+    background:#A6DAFF;
+text-align:center;
+   color:#C7F6B6; 
+text-shadow:3px 3px #000000;
+padding: 25px 35px;
+    
 }
 
-body li{
-    text-align:center;
-    color:#A6DAFF;
+header.primary h1{
+     font-size:50px;
+    
 }
 
-body li a{
+ h2{
     text-align:center;
-    color:#A6DAFF;
+     font-size:40px;
+ }
+
+h3{
+   
+    font-size:20px;
 }
+
+ul a{
+    text-decoration: none;
+
+}
+
+ul li{
+    list-style-type:none;
+
+
+    
+}
+
+
