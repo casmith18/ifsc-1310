@@ -16,5 +16,20 @@ html {
 body{
   font-family: 'Raleway', sans-serif;
 margin:0;
-    
+ background-color:black;   
+}
+
+body h1{
+    text-align:center;
+    color:#A6DAFF;
+}
+
+body li{
+    text-align:center;
+    color:#A6DAFF;
+}
+
+body li a{
+    text-align:center;
+    color:#A6DAFF;
 }
